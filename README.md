@@ -25,6 +25,7 @@ referenced repoitory readme
 
 ## メモ
 
+- https://developers.google.com/web/fundamentals/web-app-manifest/
 
 ## 良い
 
