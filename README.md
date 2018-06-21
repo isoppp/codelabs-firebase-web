@@ -1,9 +1,7 @@
 # codelabs-firebase-web
 
-https://codelabs.developers.google.com/codelabs/firebase-web/#0
-
-# codelabs-firestore-web
-learn https://codelabs.developers.google.com/codelabs/firestore-web/
+refer: https://codelabs.developers.google.com/codelabs/firebase-web/
+deployed: https://codelabs-firebase-web-15b3a.firebaseapp.com/
 
 referenced repoitory readme
 

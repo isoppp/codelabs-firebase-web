@@ -1,5 +1,5 @@
 {
   "projects": {
-    "staging": "codelabs-firebase-web-15b3a"
+    "default": "codelabs-firebase-web-15b3a"
   }
 }
