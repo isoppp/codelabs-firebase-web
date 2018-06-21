@@ -26,12 +26,14 @@ referenced repoitory readme
 ## メモ
 
 - https://developers.google.com/web/fundamentals/web-app-manifest/
+- https://firebase.google.com/docs/database/security/
 
 ## 良い
 
 
 ## 悪い
 
+- ES5
 
 ## 課題
 
