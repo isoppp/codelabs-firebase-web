@@ -25,9 +25,6 @@ referenced repoitory readme
 
 ## メモ
 
-- https://developers.google.com/web/fundamentals/web-app-manifest/
-- https://firebase.google.com/docs/database/security/
-
 ## 良い
 
 
@@ -39,3 +36,7 @@ referenced repoitory readme
 
 
 ## related
+
+- https://developers.google.com/web/fundamentals/web-app-manifest/
+- https://firebase.google.com/docs/database/security/
+- https://firebase.google.com/docs/storage/security/start
