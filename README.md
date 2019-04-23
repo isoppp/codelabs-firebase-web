@@ -1,5 +1,7 @@
 # codelabs-firebase-web
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/isoppp/codelabs-firebase-web.svg)](https://greenkeeper.io/)
+
 refer: https://codelabs.developers.google.com/codelabs/firebase-web/
 deployed: https://codelabs-firebase-web-15b3a.firebaseapp.com/
 
